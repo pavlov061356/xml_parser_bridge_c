@@ -1,0 +1,1 @@
+char *validateXml(char *xmlPath, char *xsdPath);
