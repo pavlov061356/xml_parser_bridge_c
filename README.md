@@ -1,4 +1,4 @@
-# xml_patses_bridge_c
+# xml_parser_bridge_c
 
 ## Сборка
 
